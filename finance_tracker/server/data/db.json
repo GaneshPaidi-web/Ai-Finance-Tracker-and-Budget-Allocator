@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "_id": "650000000000000000000001",
+      "username": "Demo User",
+      "email": "demo@aurafinance.com",
+      "password": "$2a$10$vaaozsMLIZmV4nhK5NLEfenzmlALvsmMFdQ8NXkdTuUmEFXBHL48W",
+      "salary": 50000,
+      "salaryDate": 1,
+      "lastSavingsCreditMonth": "",
+      "avatar": "avatar1",
+      "occupation": "Software Engineer",
+      "place": "San Francisco, CA",
+      "securityQuestion": "What is your pet name?",
+      "securityAnswer": "buddy",
+      "createdAt": "2026-08-20T14:21:49.843Z"
+    }
+  ],
+  "transactions": [],
+  "goals": [],
+  "subscriptions": [],
+  "budgets": [],
+  "chatMessages": []
+}
